@@ -1,5 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 # Example folder using Large File Storage(LFS) (Copy line below when creating new LFS folder; replace [UE_Project_Folder] with folder name
-   # Content/[UE_Project_Folder]/** filter=lfs diff=lfs merge=lfs -text
-   
+# Content/[UE_Project_Folder]/** filter=lfs diff=lfs merge=lfs -text
